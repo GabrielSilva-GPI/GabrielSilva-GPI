@@ -5,8 +5,8 @@ Na Instituição: CEPHAS - 22/23
 Na Instituição: FATEC - 24/26
 - 📧 @GabrielSilva-GPI
 - (ADM/GPI) 💡
-  </div>
-<a href="<img src="{[BadgeURLHere](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)}" />
+
+<img src="{[BadgeURLHere](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)}" />
 <img src="{[BadgeURLHere](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white)}" />
 <img src="{[BadgeURLHere](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)}" />
 </div>
