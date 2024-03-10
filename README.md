@@ -1,5 +1,5 @@
 ## Olá! Me chamo Gabriel Silva
-- 👨🏻‍🎓 Formado em: Técnico em administração
+- 👨🏻‍🎓 Formação: Técnico em administração
 Na Instituição: CEPHAS - 22/23
 - 👷🏼‍♂️ Cursando: Gestão da Produção Industrial
 Na Instituição: FATEC - 24/26
