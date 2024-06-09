@@ -13,10 +13,9 @@ https://github.com/GabrielSilva-GPI/Informatica_I
 
 
 
-
 https://github.com/GabrielSilva-GPI/GabrielSilva-GPI/assets/162816614/15edf40d-2074-4c7b-8b60-7ac7e85aaaf7
 
 
 
-https://github.com/GabrielSilva-GPI/GabrielSilva-GPI/assets/162816614/b1c83b3d-649b-4fa3-8d49-377c613847cf
+
 
